@@ -116,8 +116,8 @@ Snake Game
 </html>
 
 
-https://github.com/atharvasangale7/Snake-Game/blob/e64d57a3b0cd80d1f985a5bcd99ece63303f2f1d/Screenshot%202025-07-09%20171541.png
+![Alt text](https://github.com/atharvasangale7/Snake-Game/blob/e64d57a3b0cd80d1f985a5bcd99ece63303f2f1d/Screenshot%202025-07-09%20171541.png)
+![Alt text](https://github.com/atharvasangale7/Snake-Game/blob/09d5285e9bb35528b43907462bd9a9a5ded816dd/Screenshot%202025-07-09%20171822.png)
 
-https://github.com/atharvasangale7/Snake-Game/blob/09d5285e9bb35528b43907462bd9a9a5ded816dd/Screenshot%202025-07-09%20171822.png
 
 
